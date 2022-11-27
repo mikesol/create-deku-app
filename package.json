@@ -1,7 +1,10 @@
 {
   "name": "create-deku-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "bin": {
     "create-my-template": "./index.js"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
   }
 }
