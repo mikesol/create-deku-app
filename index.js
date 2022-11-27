@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// Usage: npx create-my-template my-app
+// Usage: npx create-deku-app my-app
 
 const spawn = require('cross-spawn');
 const fs = require('fs');
