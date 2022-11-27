@@ -1,0 +1,7 @@
+{
+  "name": "create-deku-app",
+  "version": "0.0.0",
+  "bin": {
+    "create-my-template": "./index.js"
+  }
+}
