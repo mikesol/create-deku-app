@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "postinstall": "spago install && spago build",
     "dev": "vite dev",
     "build": "spago build && vite build"
   },
