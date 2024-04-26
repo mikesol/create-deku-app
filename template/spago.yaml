@@ -31,10 +31,6 @@ package:
   - web-touchevents
   - stringutils
 workspace:
-  backend:
-    cmd: purs-backend-es
-    args:
-      - build
   package_set:
     registry: 31.0.0
   extra_packages:
