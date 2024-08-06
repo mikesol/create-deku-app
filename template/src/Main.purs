@@ -7,4 +7,4 @@ import Deku.Toplevel (runInBody)
 import Effect (Effect)
 
 main :: Effect Unit
-main = runInBody (text_ "Hello world")
+main = void $ runInBody (text_ "Hello world")
